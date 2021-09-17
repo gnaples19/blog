@@ -4,6 +4,8 @@ title: About
 permalink: /about/
 ---
 
+My name is Gabby Naples and this is my first blog site ever. I am incredibly unqualified. Some things I enjoy are riding motorcycles, bouldering, and camping. 
+
 This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
 
 You can find the source code for Minima at GitHub:
