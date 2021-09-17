@@ -3,6 +3,7 @@ layout: post
 title:  "Introduction Post"
 date:   2021-09-14 13:07:47 -0500
 categories: jekyll update
+author: Gabby Naples
 ---
 **Describe your setup experience in this blog:**
 1. **What parts were new to you? What parts did you struggle with**
