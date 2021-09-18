@@ -13,7 +13,7 @@ You must include at least two links and two images in your post. What parts did 
 2. **What parts did you struggle with?**
   - I'm still struggling with the  {% highlight ruby %} bundle exec jekyll serve {% endhighlight %} command. I can't seem to run it from my local server.
 
-  ![image tooltip here](/assets/images/Error.png)
+  ![image tooltip here](/assets/images/Error.jpg)
 3. **What are you looking forward to?**
   - I'm looking forward to making more posts on my blog and getting to do more to change the style and appearance of it.
 4. **Your post must include at least two links and a list.**
