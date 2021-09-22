@@ -15,13 +15,13 @@ You must include at least two links and two images in your post.
 3. **What parts still do not make sense?**
   - I'm still struggling with the  {% highlight ruby %} bundle exec jekyll serve {% endhighlight %} command. I can't seem to run it from my local server.
 
-  ![Snipping of Error](blog/assets/images/Error.jpg)
+  ![Snipping of Error](blog/images/Error.jpg)
   Here's a screenshot of where I was struggling. Also I don't think I am able to figure out how to get the image to work but [here][Stack-Overflow] is where I got my idea from.
 4. **What are you looking forward to?**
   - I'm looking forward to adding more posts of things I am passionate about, particularly my motorcycles pages.
 
 5. Speaking of motorcycles, here's the new [bike][Harley-Davidson] I'm about to buy.
-![Toad Suck HD](/blog/assets/images/ToadSuck.jpg)
+![Toad Suck HD](/blog/images/ToadSuck.jpg)
 
   Here's a couple of my favorite websites:
     [Ten Minute Mail][ten-minute-mail] because I HATE having to use my real email to sign up for stuff.
