@@ -25,11 +25,6 @@ You must include at least two links and two images in your post.
 <br></br>
 ![Toad Suck HD](/blog/images/ToadSuck.jpg)
 <br></br>
-  Here's a couple of my favorite websites:
-    [Ten Minute Mail][ten-minute-mail] because I HATE having to use my real email to sign up for stuff.
-    [Pokémon GO Evolution Calculator][Evolution-Calculator] because I play a LOT of Pokémon GO and this helps me determine how powerful a Pokémon will be after I evolve it.
 
-[ten-minute-mail]: https://10minutemail.com/
-[Evolution-Calculator]: https://pokemon.gameinfo.io/en/tools/evolution-calculator
 [Stack-Overflow]: https://stackoverflow.com/questions/40197197/jekyll-how-to-display-an-image-in-a-post
 [Harley-Davidson]: https://www.harley-davidson.com/us/en/motorcycles/sportster-s.html
