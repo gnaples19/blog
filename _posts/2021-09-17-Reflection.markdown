@@ -14,17 +14,16 @@ You must include at least two links and two images in your post.
   - I struggled with the first step the most honestly. It was a rough start.
 3. **What parts still do not make sense?**
   - I'm still struggling with the  {% highlight ruby %} bundle exec jekyll serve {% endhighlight %} command. I can't seem to run it from my local server.
-<br></br>
+
   ![Snipping of Error](/blog/images/Error.jpg)
-  <br></br>
+
   Here's a screenshot of where I was struggling. Also I don't think I am able to figure out how to get the image to work but [here][Stack-Overflow] is where I got my idea from.
 4. **What are you looking forward to?**
   - I'm looking forward to adding more posts of things I am passionate about, particularly my motorcycles pages.
 
 5. Speaking of motorcycles, here's the new [bike][Harley-Davidson] I'm about to buy.
-<br></br>
 ![Toad Suck HD](/blog/images/ToadSuck.jpg)
-<br></br>
+
 
 [Stack-Overflow]: https://stackoverflow.com/questions/40197197/jekyll-how-to-display-an-image-in-a-post
 [Harley-Davidson]: https://www.harley-davidson.com/us/en/motorcycles/sportster-s.html
