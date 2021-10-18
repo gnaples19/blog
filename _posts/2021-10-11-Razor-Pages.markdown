@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Introduction Post"
+title:  "Razor Pages Lab 7"
 date:   2021-10-11 13:07:47 -0500
 categories: jekyll update
 author: Gabby Naples
@@ -17,7 +17,7 @@ author: Gabby Naples
 4. **How confident do you feel making another Razor application?**
   - I'm begging you to not make me do it again. I had to use every single braincell I had to even understand what was going on.
 
-Here's the [Link][GitHub-Link] to my GitHub repo. 
+Here's the [Link][GitHub-Link] to my GitHub repo.
 
 
 [GitHub-Link]:https://github.com/gnaples19/csci340lab7/tree/master
