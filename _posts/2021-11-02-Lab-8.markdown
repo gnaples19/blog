@@ -1,0 +1,25 @@
+---
+layout: post
+title:  "Razor Pages Lab 8"
+date:   2021-11-02 13:07:47 -0500
+categories: jekyll update
+author: Gabby Naples
+---
+
+**Write a post on your Jekyll Github blog that reflects on your work on this lab:**
+1. **What were the easiest parts of the tutorial?**
+  - The easiest part of the tutorial is generating the razor page, it is now way less confusing than the first time.
+2. **What were confusing parts of the tutorial?**
+  - There was a part in one of the later steps that I remember giving me a lot of trouble. It gave us two code samples and I was supposed to pick the one that matched the type of database I was using and it seemed like neither of them worked. Eventually, I figured it out and I don't remember exactly how, but I think it boiled down to that I had missed a line of code in a step before it.
+4. **What was difficult about working with multiple tables as opposed to the single table in the previous lab?**
+  - I didn't feel like working with different tables was actually that different. It just felt like a LOT more scaffolding and repetition in the details. I don't think I fully understand the concurrency step.
+4. **How prepared do you feel to create your team project now for your client, and what will be different for your situation?**
+  - I don't feel confident in my ability to replicate this with our own database without a tutorial. However, my other group memebers seem to have a better understanding of it and if we work together we can accomplish it. 
+
+  Side note: sorry this post is so late, I did not realize we had a write up for this lab.
+
+
+Here's the [Link][GitHub-Link] to my GitHub repo.
+
+
+[GitHub-Link]:https://github.com/gnaples19/csci340lab8
