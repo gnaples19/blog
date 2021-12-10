@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "Razor Pages Lab 9"
+date:   2021-12-09 13:07:47 -0500
+categories: jekyll update
+author: Gabby Naples
+---
+
+**Lab 9 Reflection:**
+1. **A quote from Dr. Goadrich: "Write a post about anything for lab 9 and I will give you all full credit"**
+  - The easiest part of this lab was creating a github repo. That was it, everything else after that was absolutely disastrous. I think that maybe when I am at home for winter break I will do the tutorial on my own just to better understand the material. Cheers, happy break.  
